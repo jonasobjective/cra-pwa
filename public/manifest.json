@@ -1,0 +1,93 @@
+{
+ "short_name": "cra-pwa",
+ "name": "cra-pwa",
+ "icons": [
+   {
+       "src": "/android-chrome-192x192.png",
+       "sizes": "192x192",
+       "type": "image/png"
+   },
+   {
+       "src": "/android-chrome-310x310.png",
+       "sizes": "310x310",
+       "type": "image/png"
+   }
+ ],
+ "background_color": "#2B2929",
+ "display": "standalone",
+ "scope": "/",
+ "shortcuts": [
+   {
+     "name": "Case Studies",
+     "short_name": "Case Studies",
+     "url": "/case-studies",
+     "icons": [
+       {
+         "src": "/android-chrome-192x192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+       }
+     ]
+   },
+   {
+     "name": "Company",
+     "short_name": "Company",
+     "url": "/company",
+     "icons": [
+       {
+         "src": "/android-chrome-192x192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+       }
+     ]
+   },
+   {
+     "name": "Approach",
+     "short_name": "Approach",
+     "url": "/approach",
+     "icons": [
+       {
+         "src": "/android-chrome-192x192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+       }
+     ]
+   },
+   {
+     "name": "Careers",
+     "short_name": "Careers",
+     "url": "/careers",
+     "icons": [
+       {
+         "src": "/android-chrome-192x192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+       }
+     ]
+   },
+   {
+     "name": "Blog",
+     "short_name": "Blog",
+     "url": "/blog",
+     "icons": [
+       {
+         "src": "/android-chrome-192x192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+       }
+     ]
+   },
+   {
+     "name": "Get a free quote",
+     "short_name": "Get a free quote",
+     "url": "/contacts",
+     "icons": [
+       {
+         "src": "/android-chrome-192x192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+       }
+     ]
+   }
+ ]
+}
